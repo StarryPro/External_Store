@@ -1,0 +1,10 @@
+{
+  // 80 column에서 줄 긋기
+  "editor.rulers": [80],
+  // 저장 시 자동으로 fix하기
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  // 저장 시 필요없는 spaces 줄여주기
+  "trailing-spaces.trimOnSave": true
+}
